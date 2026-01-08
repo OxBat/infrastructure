@@ -104,7 +104,7 @@ jobs:
           working-dir: ${{ env.MODULE_PATH }}
           output-method: inject
           output-file: README.md
-          fail-on-diff: "False"
+          fail-on-diff: "false"
 
       - name: Terraform validate
         if: always()
