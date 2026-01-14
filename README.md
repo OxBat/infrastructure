@@ -125,3 +125,4 @@ Module réutilisable pour créer des enregistrements DNS.
 ## 🤝 Contribution
 
 Voir le [guide dédié](CONTRIBUTING.md).
+# PoC Verification
